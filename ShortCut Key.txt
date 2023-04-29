@@ -1,0 +1,13 @@
+Visual studio code is a code editor
+Git is tool
+Git Hub is database in which store and retriew data easily 
+pwd		: used for print/present work directory
+Ls		: to show list
+cd		: change directory
+clear		: to clear screen
+cd ..		: to go one step back
+cd dirve name :	: to go another drive in PC
+mkdir directory name: to make new directory and also used for multiple directory
+cd directory name 	: to go specific directory
+
+in window we called folder but in linux we say directory

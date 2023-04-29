@@ -1,0 +1,181 @@
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ pwd
+/c/Users/Administrator
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ ls
+'3D Objects'/         Documents/               Music/                                                                                         NetHood@        Searches/         ntuser.dat.LOG2
+ AppData/             Downloads/              'My Documents'@                                                                                 OneDrive/       SendTo@           ntuser.ini
+'Application Data'@   Favorites/               NTUSER.DAT                                                                                     Pictures/      'Start Menu'@
+ Contacts/            IntelGraphicsProfiles/   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf                                        PrintHood@      Templates@
+ Cookies@             Links/                   NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms   Recent@         Videos/
+ Desktop/            'Local Settings'@         NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms  'Saved Games'/   ntuser.dat.LOG1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~
+$ cd Documents/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ld
+bash: ld: command not found
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ ls
+'My Music'@  'My Pictures'@  'My Videos'@   VisualCode/   desktop.ini
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents
+$ cd VisualCode/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode
+$ ls
+Class1/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode
+$ cd Class1/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  images/  script/  styles/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ touch index.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  images/  index.html  script/  styles/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ touch fyl.css
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  fyl.css  images/  index.html  script/  styles/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ touch usman.doc
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  fyl.css  images/  index.html  script/  styles/  usman.doc
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ touch royal.php
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  fyl.css  images/  index.html  royal.php  script/  styles/  usman.doc
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ touch css.css
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  css.css  fyl.css  images/  index.html  royal.php  script/  styles/  usman.doc
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ touch yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  css.css  fyl.css  images/  index.html  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ mkdir farhana
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  css.css  farhana/  fyl.css  images/  index.html  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ cd farhana/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1/farhana (master)
+$ ls
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1/farhana (master)
+$ cd ..
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  css.css  farhana/  fyl.css  images/  index.html  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm KhanBoys/
+rm: cannot remove 'KhanBoys/': Is a directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  css.css  farhana/  fyl.css  images/  index.html  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm index.html
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+KhanBoys/  css.css  farhana/  fyl.css  images/  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm -r KhanBoys/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+css.css  farhana/  fyl.css  images/  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm -fr farhana/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+css.css  fyl.css  images/  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm fyl.css
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+css.css  images/  royal.php  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm -r royal.php
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+css.css  images/  script/  styles/  usman.doc  yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm -r royal.php
+rm: cannot remove 'royal.php': No such file or directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm -r yasir.sql
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ llllls
+bash: llllls: command not found
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+css.css  images/  script/  styles/  usman.doc
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm r images/
+rm: cannot remove 'r': No such file or directory
+rm: cannot remove 'images/': Is a directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm images/
+rm: cannot remove 'images/': Is a directory
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ rm -r images/
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ ls
+css.css  script/  styles/  usman.doc
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$ pwd
+/c/Users/Administrator/Documents/VisualCode/Class1
+
+Administrator@DESKTOP-QT517IN MINGW64 ~/Documents/VisualCode/Class1 (master)
+$

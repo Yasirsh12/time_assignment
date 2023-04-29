@@ -1,0 +1,503 @@
+`
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mrkdir images
+bash: mrkdir: command not found
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir images:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ clear
+____________________________________________________________________________________________________________________
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+images:/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir css html bootsrip javascript
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ 
+______________________________________________________________________________________________________________
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+images:/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir css html bootsrip javascript
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd c:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ ls
+'$Recycle.Bin'/  'Documents and Settings'@   hiberfil.sys   pagefile.sys     'Program Files (x86)'/   swapfile.sys                  Users/  
+'$WinREAgent'/    DumpStack.log              Intel/         PerfLogs/         ProgramData/           'System Volume Information'/   Windows/
+ Chrone/          DumpStack.log.tmp          MSOCache/     'Program Files'/   Recovery/               TypingMaster11/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$
+________________________________________________________________________________
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd i:
+bash: cd: i:: No such file or directory
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd e:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /e
+$ ls
+'$RECYCLE.BIN'/
+'[FreeCourseSite.com] Udemy - Android O & Java - The Complete Android Development Bootcamp'/
+'~$Aqib.docx'
+'~$llet surf account code and other information.docx'
+ 20170520_0901/
+ Aaqib.pdf
+ Aqib.docx
+ aqib.pdf
+'Asir Shahzad decoment'/
+ Books/
+'BS Computer Science'/
+ Camera/
+'Computer Parograme'/
+'Cv style'/
+ EstateAgency/
+'General knowledge about name'/
+'How To FIX-Repair A Corrupted USB Flash Drive or SD Card Urdu- Hindi Tutorial.mp4'
+'lahore tour'/
+'Program with yaseen'/
+'System Volume Information'/
+'Treasure of knowledge 3rd Edition_compressed.pdf'
+'Wallet surf account code and other information.docx'
+'Yasir Camera'/
+'Yasir Personal Folder'/
+'Yasir Shahzad'/
+'Yasir Shahzad and his life.docx'
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /e
+$
+__________________________________________________________________________________________
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+images:/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir css html bootsrip javascript
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd c:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ ls
+'$Recycle.Bin'/  'Documents and Settings'@   hiberfil.sys   pagefile.sys     'Program Files (x86)'/   swapfile.sys                  Users/  
+'$WinREAgent'/    DumpStack.log              Intel/         PerfLogs/         ProgramData/           'System Volume Information'/   Windows/
+ Chrone/          DumpStack.log.tmp          MSOCache/     'Program Files'/   Recovery/               TypingMaster11/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ pwd
+/c
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd i:
+bash: cd: i:: No such file or directory
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd e:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /e
+$ ls
+'$RECYCLE.BIN'/
+'[FreeCourseSite.com] Udemy - Android O & Java - The Complete Android Development Bootcamp'/
+'~$Aqib.docx'
+'~$llet surf account code and other information.docx'
+ 20170520_0901/
+ Aaqib.pdf
+ Aqib.docx
+ aqib.pdf
+'Asir Shahzad decoment'/
+ Books/
+'BS Computer Science'/
+ Camera/
+'Computer Parograme'/
+'Cv style'/
+ EstateAgency/
+'General knowledge about name'/
+'How To FIX-Repair A Corrupted USB Flash Drive or SD Card Urdu- Hindi Tutorial.mp4'
+'lahore tour'/
+'Program with yaseen'/
+'System Volume Information'/
+'Treasure of knowledge 3rd Edition_compressed.pdf'
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /
+$ pwd
+/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /
+$ cd f:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ ls
+'$RECYCLE.BIN'/                     '12 oct 2022'/         EstateAgency/                      'Programming courses'/      
+'~$esis final.docx'                 'Baseer photostate'/  'Hozaifa Computer'/                 'System Volume Information'/
+'~$w Microsoft Word Document.docx'  'Chief Sahib'/        'New Microsoft Word Document.docx'   VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd
+cd              cdd.dll         cdosys.dll      cdp.dll         cdprt.dll       cdpsvc.dll      cdpusersvc.dll  
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd 
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 ~
+$ cd visualStudioCode
+bash: cd: visualStudioCode: No such file or directory
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 ~
+$ cd f:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ ld
+bash: ld: command not found
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ ls
+'$RECYCLE.BIN'/                     '12 oct 2022'/         EstateAgency/                      'Programming courses'/
+'~$esis final.docx'                 'Baseer photostate'/  'Hozaifa Computer'/                 'System Volume Information'/
+'~$w Microsoft Word Document.docx'  'Chief Sahib'/        'New Microsoft Word Document.docx'   VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd .gitfetch 
+bash: cd: .gitfetch: No such file or directory
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd. visualstudiocode
+bash: cd.: command not found
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd f:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd html/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/html
+$
+___________________________________________________________________________________
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd f:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd html/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/html
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd..
+bash: cd..: command not found
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd html/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/html
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$
+__________________________________________________________________________
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir Riaz mussadiq Yasir saleem 
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/  mussadiq/  Riaz/  saleem/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$
+__________________________________________________________________________________
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd c:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ ls
+'$Recycle.Bin'/  'Documents and Settings'@   hiberfil.sys   pagefile.sys     'Program Files (x86)'/   swapfile.sys                  Users/
+'$WinREAgent'/    DumpStack.log              Intel/         PerfLogs/         ProgramData/           'System Volume Information'/   Windows/      
+ Chrone/          DumpStack.log.tmp          MSOCache/     'Program Files'/   Recovery/               TypingMaster11/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd Programdata
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c/Programdata
+$ ls
+ Adobe/               Documents@  'Microsoft Help'/       regid.1991-06.com.microsoft/   TEMP/         WindowsHolographicDevices/
+'Application Data'@   Logs/       'Microsoft OneDrive'/   SoftwareDistribution/          Templates@
+ AVG/                 McAfee/      ntuser.pol             ssh/                           USOPrivate/
+ Desktop@             Microsoft/   Packages/             'Start Menu'@                   USOShared/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c/Programdata
+$ cd f:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$
+_________________________________________________________________________________________________
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  javascript/  mussadiq/  Riaz/  saleem/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd jahangir window tabel chai
+bash: cd: too many arguments
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir jahangir
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir chair tabel 
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  chair/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  tabel/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/Yasir
+$ ls
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/Yasir
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  chair/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  tabel/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ?
+bash: ?: command not found
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$
+ *  History restored 
+
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd :
+bash: cd: :: No such file or directory
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ pwd
+/f/VisualStudioCode/Class1
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  chair/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  tabel/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd :
+bash: cd: :: No such file or directory
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  chair/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  tabel/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd c
+chair/ css/   
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd css
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1/css
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ cd c:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ ls
+'$Recycle.Bin'/             DumpStack.log       MSOCache/        'Program Files (x86)'/  'System Volume Information'/
+'$WinREAgent'/              DumpStack.log.tmp   pagefile.sys      ProgramData/            TypingMaster11/
+ Chrone/                    hiberfil.sys        PerfLogs/         Recovery/               Users/
+'Documents and Settings'@   Intel/             'Program Files'/   swapfile.sys            Windows/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd Users/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c/Users
+$ ls
+'All Users'@   Default/  'Default User'@   desktop.ini   Public/  'Yasir Shahzad'/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c/Users
+$ cd ..
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /c
+$ cd f:
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ ls
+'$RECYCLE.BIN'/                     '12 oct 2022'/         EstateAgency/                      'Programming courses'/
+'~$esis final.docx'                 'Baseer photostate'/  'Hozaifa Computer'/                 'System Volume Information'/
+'~$w Microsoft Word Document.docx'  'Chief Sahib'/        'New Microsoft Word Document.docx'   VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f
+$ cd VisualStudioCode/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ ls
+Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode
+$ cd Class1/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ls
+bootsrip/  chair/  css/  html/  images:/  jahangir/  javascript/  mussadiq/  Riaz/  saleem/  tabel/  Yasir/
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ mkdir KhanZiab
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$ ^C
+
+Yasir Shahzad@DESKTOP-CARCG87 MINGW64 /f/VisualStudioCode/Class1
+$
